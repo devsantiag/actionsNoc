@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tel&Com - NOC AÇÕES</title>
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body>
+        <main>
+            <div class="container">
+                <!-- ações executáveis -->
+                <button onclick="linkOperante()"
+                    id="button_operante">Link - Operante</button>
+                <button onclick="linkInoperante()"
+                    id="button_inoperante">Link - Inoperante</button>
+                <button onclick="localSemEnergia()"
+                    id="button_energia">Sem Energia</button>
+                <button onclick="semContatoDoLocal()"
+                    id="button_semContatoLocal">Sem contato do Local</button>
+                <button onclick="expediente()"
+                    id="button_expediente">Sem expediente</button>
+                <button onclick="operadoraNaoAtende()"
+                    id="button_atendimentoOperadora">Operadora não
+                    Atende</button>
+                <button onclick="contigencia()" id="button_clienteOk">Unidade OK
+                    (Cliente)</button>
+                <button onclick="encaminhadoEmail()"
+                    id="emailPosicionamentoTecnico">E-mail (Posic.
+                    Técnico)</button>
+                <button onclick="osTecnicaFornecedor()" id="osTecnicaEmail">OS
+                    Técnica</button>
+            </div>
+        <script src="/script/actions/actions.js"></script>
+        <script src="/script/statistic/statisticActions.js"></script>
+        <link rel="stylesheet" href="/html/statisticDashBoard/dashboard.html">
+    </body>
+</html>
