@@ -1,0 +1,22 @@
+caracterítica da rede ponto a ponto -> não tem servidor (por exemplo a nosso wifi)
+
+gateway = tem várias funções, como por exemplo o de casa
+
+a partir do momento em que tem um administrador, não pode ser ponto a ponto.
+
+a ponto a ponto não é uma rede segura para empresa, haja visto que caso não tenha um administrador, o funcionário x pode ver o funcionário y, por exemplo
+
+rede doméstica = ponto a ponto
+
+cliente servidor = mais segurança
+
+ponto a ponto = todo mundo ve todo mundo
+
+
+============================================
+
+criando uma rede doméstica
+
+https://www.youtube.com/watch?v=-ROvYvGpWfE&list=PLAp37wMSBouBnNup2tD-mC36JT96vHBZy&index=3&ab_channel=HardwareRedesBrasil
+
+
